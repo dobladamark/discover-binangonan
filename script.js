@@ -1,4 +1,4 @@
-/* mobile*/
+/* mobile nav bar*/
 
 (function() {
     const menuToggle = document.getElementsByClassName('btn-menu')[0];
@@ -9,4 +9,5 @@
             nav.classList.toggle('active1');
         });
     }
+
 })();
